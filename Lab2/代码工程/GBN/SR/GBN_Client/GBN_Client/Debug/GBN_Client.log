@@ -1,0 +1,7 @@
+﻿  SR_Client.cpp
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Client\SR_Client.cpp(123,29): warning C4305: “初始化”: 从“double”到“float”截断
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Client\SR_Client.cpp(124,26): warning C4305: “初始化”: 从“double”到“float”截断
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Client\SR_Client.cpp(171,19): warning C4309: “=”: 截断常量值
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Client\SR_Client.cpp(194,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Client\SR_Client.cpp(217,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  GBN_Client.vcxproj -> E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\Debug\GBN_Client.exe

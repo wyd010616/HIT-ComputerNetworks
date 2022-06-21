@@ -1,0 +1,4 @@
+﻿  SR_Server.cpp
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Server\SR_Server.cpp(84,6): warning C4101: “index”: 未引用的局部变量
+E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\GBN_Server\SR_Server.cpp(255,18): warning C4309: “=”: 截断常量值
+  GBN_Server.vcxproj -> E:\沈昕哲\计算机网络\实验\实验二\GBN_3\GBN_Client\Debug\GBN_Server.exe

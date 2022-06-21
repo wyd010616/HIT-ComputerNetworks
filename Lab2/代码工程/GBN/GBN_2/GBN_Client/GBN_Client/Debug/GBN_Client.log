@@ -1,0 +1,9 @@
+﻿  GBN_Client.cpp
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(204,29): warning C4305: “初始化”: 从“double”到“float”截断
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(205,26): warning C4305: “初始化”: 从“double”到“float”截断
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(271,19): warning C4309: “=”: 截断常量值
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(296,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(305,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(353,18): warning C4309: “=”: 截断常量值
+E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\GBN_Client\GBN_Client.cpp(224,6): warning C4101: “recvSize”: 未引用的局部变量
+  GBN_Client.vcxproj -> E:\沈昕哲\计算机网络\实验\实验二\GBN_2\GBN_Client\Debug\GBN_Client.exe

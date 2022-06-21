@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GBN_1",
+    "\\GBN_1\\GBN_Client",
+    "\\GBN_1\\GBN_Client\\GBN_Client",
+    "\\GBN_1\\GBN_Server",
+    "\\GBN_2",
+    "\\GBN_2\\GBN_Client",
+    "\\GBN_2\\GBN_Client\\GBN_Server"
+  ],
+  "SelectedNode": "\\GBN_1\\GBN_Server\\GBN_Server.vcxproj",
+  "PreviewInSolutionExplorer": false
+}
